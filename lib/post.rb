@@ -16,8 +16,5 @@ class Post
       @author.name
     end
   end
-  
-  def post.all 
-    @@all 
-  end 
+
 end 
